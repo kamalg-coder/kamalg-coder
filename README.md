@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://kamalgupta1410.github.io/](https://kamalgupta1410.github.io/)
+- 👨‍💻 All of my projects will be available soon at my portfolio.
 
 - 💬 Ask me about **next-js, React, Javascript, css , html**
 
