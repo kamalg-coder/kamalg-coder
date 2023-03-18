@@ -1,9 +1,9 @@
 <img width='100%' height='350px' src='https://media.istockphoto.com/id/1193278024/vector/application-of-smartphone-with-business-graph-and-analytics-data-on-isometric-mobile-phone.jpg?s=612x612&w=0&k=20&c=cV3zqN7LAi6_qAqW45_vZMg7HVRSt4_2NV-SRJ-FK04='/>
 <h1 align="center">Hi 👋, I'm Kamal Gupta</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalgupta1410&label=Profile%20views&color=0e75b6&style=flat" alt="kamalgupta1410" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalg-coder&label=Profile%20views&color=0e75b6&style=flat" alt="kamalg-coder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalgupta1410" alt="kamalgupta1410" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalg-coder" alt="kamalg-coder" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kamalgupta1410" target="blank"><img src="https://img.shields.io/twitter/follow/kamalgupta1410?logo=twitter&style=for-the-badge" alt="kamalgupta1410" /></a> </p>
 <img align='right' width='300px' height="300px" src='https://www.shutterstock.com/image-vector/software-design-over-white-background-260nw-277084379.jpg'/>
@@ -30,5 +30,5 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamalgupta1410&show_icons=true&locale=en" alt="kamalgupta1410" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalgupta1410&" alt="kamalgupta1410" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalg-coder&" alt="kamalg-coder" /></p>
 
