@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kamalgupta1410" target="blank"><img src="https://img.shields.io/twitter/follow/kamalgupta1410?logo=twitter&style=for-the-badge" alt="kamalgupta1410" /></a> </p>
 <img align='right' width='300px' height="300px" src='https://www.shutterstock.com/image-vector/software-design-over-white-background-260nw-277084379.jpg'/>
-- 🔭 I’m currently working on [my portfolio](https://kamalg-coder.github.io/#)
+
 
 - 🌱 I’m currently learning **React JS**
 
