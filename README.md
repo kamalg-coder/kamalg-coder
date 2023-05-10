@@ -9,7 +9,7 @@
 <img align='right' width='300px' height="300px" src='https://www.shutterstock.com/image-vector/software-design-over-white-background-260nw-277084379.jpg'/>
 
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently working on **E-Commerce Project**
 
 - 👨‍💻 All of my projects are available at (https://kamalg-coder.github.io/)
 
