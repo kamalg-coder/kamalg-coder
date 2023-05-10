@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at (https://kamalg-coder.github.io/)
 
-- 💬 Ask me about **next-js, React, Javascript, css , html**
+- 💬 Ask me about **Node JS, Express, MongoDb, Next-js, React, Javascript, CSS , Html**
 
 - 📫 How to reach me **kamalgupta1410@gmail.com**
 
